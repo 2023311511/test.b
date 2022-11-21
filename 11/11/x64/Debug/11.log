@@ -1,0 +1,5 @@
+﻿  11.cpp
+C:\code\test.b\11\11\11.cpp(10,19): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\code\test.b\11\11\11.cpp(10,17): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\code\test.b\11\11\11.cpp(15,11): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+  11.vcxproj -> C:\code\test.b\11\x64\Debug\11.exe
